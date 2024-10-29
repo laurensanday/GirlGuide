@@ -16,8 +16,8 @@
 # Usage
 This **PWA** was created in Replict. Visit https://replit.com/@laurensanday7/GirlGuide in your web browser to view the code.
 
-<img src="https://github.com/user-attachments/assets/d7abfdd8-ceaf-4ddd-9aa0-d87e12c75680" alt="IMG_3270" width="300">
-<img src="https://github.com/user-attachments/assets/c445a3a0-bf65-459c-94ed-889a331f225c" alt="IMG_3272" width="300">
-<img src="https://github.com/user-attachments/assets/25780634-50fa-4219-bc83-bb5e2068e895" alt="IMG_3273" width="300">
+<img src="https://github.com/user-attachments/assets/d7abfdd8-ceaf-4ddd-9aa0-d87e12c75680" alt="IMG_3270" width="200">
+<img src="https://github.com/user-attachments/assets/c445a3a0-bf65-459c-94ed-889a331f225c" alt="IMG_3272" width="200">
+<img src="https://github.com/user-attachments/assets/25780634-50fa-4219-bc83-bb5e2068e895" alt="IMG_3273" width="200">
 
 
