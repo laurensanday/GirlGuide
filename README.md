@@ -11,6 +11,6 @@
 **HTML:** Structures the user interface, creating a clean and intuitive layout.
 **CSS:** Enhances the visual presentation with responsive layouts and styling.
 
-**Usage**
+# Usage
 This **PWA** was created in Replict. Visit https://replit.com/@laurensanday7/GirlGuide in your web browser to view the code.
 
