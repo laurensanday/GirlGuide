@@ -14,3 +14,6 @@
 # Usage
 This **PWA** was created in Replict. Visit https://replit.com/@laurensanday7/GirlGuide in your web browser to view the code.
 
+![IMG_3270](https://github.com/user-attachments/assets/d7abfdd8-ceaf-4ddd-9aa0-d87e12c75680)
+![IMG_3273](https://github.com/user-attachments/assets/25780634-50fa-4219-bc83-bb5e2068e895)
+![IMG_3272](https://github.com/user-attachments/assets/c445a3a0-bf65-459c-94ed-889a331f225c)
