@@ -8,7 +8,9 @@
 
 # Technologies Used
 **Python:** Uses flask to serve as the backend framework, managing data handling and routing.
+
 **HTML:** Structures the user interface, creating a clean and intuitive layout.
+
 **CSS:** Enhances the visual presentation with responsive layouts and styling.
 
 # Usage
